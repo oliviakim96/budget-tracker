@@ -11,5 +11,7 @@
     WHEN the user reestablishes an internet connection
     THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
     
-# image
+# Image
+![screenshot](./assets/screenshot.png)
 # Deployed url
+https://oliviakim96.github.io/budget-tracker/
