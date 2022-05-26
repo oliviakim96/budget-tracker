@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "server.js",
+    "start:dev": "webpack-dev-server",
     "lite-server": "lite-server",
     "webpack": "webpack --watch",
     "build": "webpack"
@@ -29,10 +29,11 @@
     "morgan": "^1.10.0",
     "path": "^0.12.7",
     "popper.js": "^1.16.0",
+    "webpack-dev-server": "^4.9.0",
     "webpack-pwa-manifest": "^4.3.0"
   },
   "devDependencies": {
     "webpack": "4.46",
-    "webpack-cli": "^4.6.0"
+    "webpack-cli": "^4.9.2"
   }
 }
