@@ -28,6 +28,7 @@
     "mongoose": "^5.5.15",
     "morgan": "^1.10.0",
     "path": "^0.12.7",
+    "popper.js": "^1.16.0",
     "webpack-pwa-manifest": "^4.3.0"
   },
   "devDependencies": {
