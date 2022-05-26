@@ -14,4 +14,4 @@
 # Image
 ![screenshot](./assets/screenshot.png)
 # Deployed url
-https://oliviakim96.github.io/budget-tracker/
+https://budget-tracker-pwa-oliviak.herokuapp.com/
